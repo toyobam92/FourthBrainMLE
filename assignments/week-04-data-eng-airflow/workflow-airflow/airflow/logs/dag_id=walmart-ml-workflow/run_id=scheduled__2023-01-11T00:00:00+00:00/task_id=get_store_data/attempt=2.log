@@ -1,0 +1,52 @@
+[2023-01-11T20:12:47.155-0500] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: walmart-ml-workflow.get_store_data scheduled__2023-01-11T00:00:00+00:00 [queued]>
+[2023-01-11T20:12:47.268-0500] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: walmart-ml-workflow.get_store_data scheduled__2023-01-11T00:00:00+00:00 [queued]>
+[2023-01-11T20:12:47.269-0500] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-11T20:12:47.270-0500] {taskinstance.py:1284} INFO - Starting attempt 2 of 2
+[2023-01-11T20:12:47.271-0500] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-11T20:12:47.397-0500] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): get_store_data> on 2023-01-11 00:00:00+00:00
+[2023-01-11T20:12:47.414-0500] {standard_task_runner.py:55} INFO - Started process 13799 to run task
+[2023-01-11T20:12:47.478-0500] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'walmart-ml-workflow', 'get_store_data', 'scheduled__2023-01-11T00:00:00+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/walmart-ml-workflow.py', '--cfg-path', '/var/folders/lc/0q_5vmf5385c78mr7v2ntch00000gn/T/tmpncp4p5cd']
+[2023-01-11T20:12:47.535-0500] {standard_task_runner.py:83} INFO - Job 28: Subtask get_store_data
+[2023-01-11T20:12:48.316-0500] {task_command.py:389} INFO - Running <TaskInstance: walmart-ml-workflow.get_store_data scheduled__2023-01-11T00:00:00+00:00 [running]> on host Toyosis-MacBook-Pro.local
+[2023-01-11T21:06:43.158-0500] {taskinstance.py:1511} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=toyosibamidele@gmail.com
+AIRFLOW_CTX_DAG_OWNER=Toyosi Bami
+AIRFLOW_CTX_DAG_ID=walmart-ml-workflow
+AIRFLOW_CTX_TASK_ID=get_store_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-11T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-11T00:00:00+00:00
+[2023-01-11T21:06:43.189-0500] {subprocess.py:63} INFO - Tmp dir root location: 
+ /var/folders/lc/0q_5vmf5385c78mr7v2ntch00000gn/T
+[2023-01-11T21:06:43.195-0500] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'python3 ~/airflow/scripts/get_store_data.py']
+[2023-01-11T21:06:43.222-0500] {subprocess.py:86} INFO - Output:
+[2023-01-11T21:06:44.127-0500] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2023-01-11T21:06:44.128-0500] {subprocess.py:93} INFO -   File "/Users/toyosibamidele/airflow/scripts/get_store_data.py", line 7, in <module>
+[2023-01-11T21:06:44.128-0500] {subprocess.py:93} INFO -     data = pd.read_csv('/Users/toyosibamidele/Desktop/FourthBrainMLELocal/FourthBrainMLE/assignments/week-04-data-eng-airflow/dat/train_comb.csv')
+[2023-01-11T21:06:44.129-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+[2023-01-11T21:06:44.131-0500] {subprocess.py:93} INFO -     return func(*args, **kwargs)
+[2023-01-11T21:06:44.131-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/util/_decorators.py", line 331, in wrapper
+[2023-01-11T21:06:44.136-0500] {subprocess.py:93} INFO -     return func(*args, **kwargs)
+[2023-01-11T21:06:44.137-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 950, in read_csv
+[2023-01-11T21:06:44.138-0500] {subprocess.py:93} INFO -     return _read(filepath_or_buffer, kwds)
+[2023-01-11T21:06:44.139-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 605, in _read
+[2023-01-11T21:06:44.139-0500] {subprocess.py:93} INFO -     parser = TextFileReader(filepath_or_buffer, **kwds)
+[2023-01-11T21:06:44.140-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1442, in __init__
+[2023-01-11T21:06:44.141-0500] {subprocess.py:93} INFO -     self._engine = self._make_engine(f, self.engine)
+[2023-01-11T21:06:44.141-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1735, in _make_engine
+[2023-01-11T21:06:44.142-0500] {subprocess.py:93} INFO -     self.handles = get_handle(
+[2023-01-11T21:06:44.143-0500] {subprocess.py:93} INFO -   File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/io/common.py", line 856, in get_handle
+[2023-01-11T21:06:44.143-0500] {subprocess.py:93} INFO -     handle = open(
+[2023-01-11T21:06:44.144-0500] {subprocess.py:93} INFO - FileNotFoundError: [Errno 2] No such file or directory: '/Users/toyosibamidele/Desktop/FourthBrainMLELocal/FourthBrainMLE/assignments/week-04-data-eng-airflow/dat/train_comb.csv'
+[2023-01-11T21:06:44.179-0500] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-01-11T21:06:44.188-0500] {taskinstance.py:1772} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/airflow/operators/bash.py", line 196, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-01-11T21:06:44.195-0500] {taskinstance.py:1322} INFO - Marking task as FAILED. dag_id=walmart-ml-workflow, task_id=get_store_data, execution_date=20230111T000000, start_date=20230112T011247, end_date=20230112T020644
+[2023-01-11T21:06:44.206-0500] {standard_task_runner.py:100} ERROR - Failed to execute job 28 for task get_store_data (Bash command failed. The command returned a non-zero exit code 1.; 13799)
+[2023-01-11T21:06:44.225-0500] {local_task_job.py:159} INFO - Task exited with return code 1
+[2023-01-11T21:06:44.281-0500] {taskinstance.py:2582} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,389 @@
+[2023-01-10T16:07:23.951-0500] {processor.py:153} INFO - Started process (PID=58122) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:23.956-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:07:23.957-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:23.957-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:23.990-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:25.262-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:25.262-0500] {manager.py:504} INFO - Created Permission View: can read on DAG:walmart-ml-workflow
+[2023-01-10T16:07:25.276-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:25.276-0500] {manager.py:504} INFO - Created Permission View: can edit on DAG:walmart-ml-workflow
+[2023-01-10T16:07:25.287-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:25.287-0500] {manager.py:504} INFO - Created Permission View: can delete on DAG:walmart-ml-workflow
+[2023-01-10T16:07:25.288-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:25.288-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:07:25.302-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:25.301-0500] {dag.py:2697} INFO - Creating ORM DAG for walmart-ml-workflow
+[2023-01-10T16:07:25.312-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:25.312-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:07:25.337-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.387 seconds
+[2023-01-10T16:07:30.045-0500] {processor.py:153} INFO - Started process (PID=58125) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:30.052-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:07:30.053-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:30.052-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:30.085-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:30.185-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:30.185-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:07:31.124-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:31.124-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:07:31.146-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.103 seconds
+[2023-01-10T16:07:59.650-0500] {processor.py:153} INFO - Started process (PID=58149) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:59.657-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:07:59.658-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:07:59.658-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:07:59.712-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:08:01.061-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:08:01.060-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:08:01.100-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:08:01.099-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:08:01.127-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.478 seconds
+[2023-01-10T16:08:24.471-0500] {processor.py:153} INFO - Started process (PID=58192) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:08:24.477-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:08:24.477-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:08:24.477-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:08:24.503-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:08:25.186-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:08:25.186-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:08:25.202-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:08:25.202-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:08:25.222-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.751 seconds
+[2023-01-10T16:09:32.087-0500] {processor.py:153} INFO - Started process (PID=58243) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:09:32.093-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:09:32.093-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:09:32.093-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:09:32.121-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:09:32.914-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:09:32.914-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:09:32.949-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:09:32.949-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:09:33.043-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.957 seconds
+[2023-01-10T16:09:52.763-0500] {processor.py:153} INFO - Started process (PID=58260) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:09:52.768-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:09:52.768-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:09:52.768-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:09:52.795-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:09:53.522-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:09:53.522-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:09:53.543-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:09:53.543-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:09:53.564-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.802 seconds
+[2023-01-10T16:10:58.649-0500] {processor.py:153} INFO - Started process (PID=58367) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:10:58.655-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:10:58.656-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:10:58.656-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:10:58.687-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:10:59.463-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:10:59.462-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:10:59.479-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:10:59.479-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:10:59.499-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.851 seconds
+[2023-01-10T16:11:18.573-0500] {processor.py:153} INFO - Started process (PID=58383) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:11:18.579-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:11:18.579-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:11:18.579-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:11:18.610-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:11:19.415-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:11:19.415-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:11:19.434-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:11:19.433-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:11:19.456-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.883 seconds
+[2023-01-10T16:12:25.377-0500] {processor.py:153} INFO - Started process (PID=58446) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:12:25.383-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:12:25.384-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:12:25.384-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:12:25.418-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:12:26.441-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:12:26.441-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:12:26.461-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:12:26.460-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:12:26.485-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.109 seconds
+[2023-01-10T16:12:48.593-0500] {processor.py:153} INFO - Started process (PID=58461) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:12:48.598-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:12:48.598-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:12:48.598-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:12:48.624-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:12:49.323-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:12:49.323-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:12:49.343-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:12:49.343-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:12:49.364-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.772 seconds
+[2023-01-10T16:14:04.099-0500] {processor.py:153} INFO - Started process (PID=58523) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:14:04.104-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:14:04.105-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:14:04.105-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:14:04.135-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:14:05.064-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:14:05.064-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:14:05.083-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:14:05.083-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:14:05.102-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.004 seconds
+[2023-01-10T16:14:31.698-0500] {processor.py:153} INFO - Started process (PID=58542) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:14:31.704-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:14:31.705-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:14:31.705-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:14:31.736-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:14:32.661-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:14:32.660-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:14:32.679-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:14:32.679-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:14:32.698-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.001 seconds
+[2023-01-10T16:16:03.328-0500] {processor.py:153} INFO - Started process (PID=58714) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:03.345-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:16:03.346-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:03.346-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:03.386-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:03.542-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:03.542-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:16:04.684-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:04.683-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:16:04.721-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.400 seconds
+[2023-01-10T16:16:05.763-0500] {processor.py:153} INFO - Started process (PID=58718) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:05.770-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:16:05.771-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:05.770-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:05.813-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:05.970-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:05.969-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:16:08.392-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:08.392-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:16:08.422-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 2.659 seconds
+[2023-01-10T16:16:33.640-0500] {processor.py:153} INFO - Started process (PID=58754) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:33.651-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:16:33.653-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:33.653-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:33.697-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:16:34.706-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:34.706-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:16:34.726-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:16:34.726-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:16:34.746-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.108 seconds
+[2023-01-10T16:18:09.119-0500] {processor.py:153} INFO - Started process (PID=58946) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:09.128-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:18:09.129-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:09.129-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:09.172-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:10.320-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:10.319-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:18:10.342-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:10.342-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:18:10.377-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.258 seconds
+[2023-01-10T16:18:34.224-0500] {processor.py:153} INFO - Started process (PID=58994) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:34.230-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:18:34.231-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:34.231-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:34.265-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:35.263-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:35.263-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:18:35.285-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:35.285-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:18:35.309-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.086 seconds
+[2023-01-10T16:18:41.207-0500] {processor.py:153} INFO - Started process (PID=59008) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:41.215-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:18:41.216-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:41.216-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:41.253-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:18:42.304-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:42.303-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:18:42.324-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:18:42.323-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:18:42.346-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.140 seconds
+[2023-01-10T16:20:17.096-0500] {processor.py:153} INFO - Started process (PID=59098) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:17.103-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:20:17.103-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:17.103-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:17.136-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:18.189-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:18.189-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:20:18.210-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:18.210-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:20:18.233-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.138 seconds
+[2023-01-10T16:20:36.697-0500] {processor.py:153} INFO - Started process (PID=59139) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:36.706-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:20:36.707-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:36.706-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:36.748-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:37.744-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:37.744-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:20:37.766-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:37.766-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:20:37.793-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.097 seconds
+[2023-01-10T16:20:40.588-0500] {processor.py:153} INFO - Started process (PID=59156) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:40.596-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:20:40.597-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:40.597-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:40.638-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:20:41.741-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:41.740-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:20:41.761-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:20:41.760-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:20:41.782-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.196 seconds
+[2023-01-10T16:21:58.656-0500] {processor.py:153} INFO - Started process (PID=59297) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:21:58.663-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:21:58.663-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:21:58.663-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:21:58.695-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:21:59.618-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:21:59.618-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:21:59.648-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:21:59.648-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:21:59.674-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.019 seconds
+[2023-01-10T16:22:16.807-0500] {processor.py:153} INFO - Started process (PID=59327) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:22:16.813-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:22:16.813-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:22:16.813-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:22:16.848-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:22:17.675-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:22:17.674-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:22:17.693-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:22:17.693-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:22:17.721-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.914 seconds
+[2023-01-10T16:22:23.028-0500] {processor.py:153} INFO - Started process (PID=59333) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:22:23.033-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:22:23.034-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:22:23.034-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:22:23.066-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:22:23.864-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:22:23.864-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:22:23.882-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:22:23.882-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:22:23.901-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.874 seconds
+[2023-01-10T16:23:35.707-0500] {processor.py:153} INFO - Started process (PID=59415) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:23:35.720-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:23:35.721-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:23:35.721-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:23:35.760-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:23:36.840-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:23:36.840-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:23:36.859-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:23:36.859-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:23:36.881-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.175 seconds
+[2023-01-10T16:23:55.511-0500] {processor.py:153} INFO - Started process (PID=59461) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:23:55.518-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:23:55.519-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:23:55.519-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:23:55.551-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:23:56.488-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:23:56.488-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:23:56.509-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:23:56.509-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:23:56.533-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.023 seconds
+[2023-01-10T16:24:03.587-0500] {processor.py:153} INFO - Started process (PID=59468) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:24:03.593-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:24:03.594-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:24:03.594-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:24:03.628-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:24:03.712-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:24:03.711-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:24:04.934-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:24:04.934-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:24:04.954-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.368 seconds
+[2023-01-10T16:25:21.742-0500] {processor.py:153} INFO - Started process (PID=59628) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:25:21.748-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:25:21.749-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:25:21.749-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:25:21.778-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:25:22.622-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:25:22.622-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:25:22.640-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:25:22.640-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:25:22.661-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.920 seconds
+[2023-01-10T16:25:56.489-0500] {processor.py:153} INFO - Started process (PID=59661) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:25:56.496-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:25:56.497-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:25:56.497-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:25:56.537-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:25:58.836-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:25:58.835-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:25:58.923-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:25:58.923-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:25:58.954-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 2.466 seconds
+[2023-01-10T16:26:06.384-0500] {processor.py:153} INFO - Started process (PID=59671) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:26:06.390-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:26:06.391-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:26:06.391-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:26:06.433-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:26:07.420-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:26:07.420-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:26:07.440-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:26:07.440-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:26:07.461-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.078 seconds
+[2023-01-10T16:27:15.187-0500] {processor.py:153} INFO - Started process (PID=59735) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:15.192-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:27:15.193-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:15.193-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:15.222-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:16.019-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:16.019-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:27:16.037-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:16.036-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:27:16.056-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.870 seconds
+[2023-01-10T16:27:51.360-0500] {processor.py:153} INFO - Started process (PID=59772) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:51.366-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:27:51.366-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:51.366-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:51.396-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:52.227-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:52.227-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:27:52.245-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:52.245-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:27:52.265-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.906 seconds
+[2023-01-10T16:27:54.942-0500] {processor.py:153} INFO - Started process (PID=59777) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:54.948-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:27:54.948-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:54.948-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:54.979-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:27:55.863-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:55.863-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:27:55.882-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:27:55.882-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:27:55.903-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.962 seconds
+[2023-01-10T16:28:43.137-0500] {processor.py:153} INFO - Started process (PID=59828) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:28:43.143-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:28:43.143-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:28:43.143-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:28:43.172-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:28:44.052-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:28:44.051-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:28:44.069-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:28:44.069-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:28:44.092-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.956 seconds
+[2023-01-10T16:37:10.442-0500] {processor.py:153} INFO - Started process (PID=59924) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:37:10.447-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:37:10.447-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:37:10.447-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:37:10.475-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:37:11.368-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:37:11.367-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:37:11.411-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:37:11.411-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:37:11.500-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.058 seconds
+[2023-01-10T16:37:11.718-0500] {processor.py:153} INFO - Started process (PID=59925) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:37:11.726-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:37:11.726-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:37:11.726-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:37:11.759-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:37:12.805-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:37:12.805-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:37:12.824-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:37:12.823-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:37:12.853-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.134 seconds
+[2023-01-10T16:38:11.057-0500] {processor.py:153} INFO - Started process (PID=60046) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:38:11.062-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:38:11.063-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:38:11.063-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:38:11.091-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:38:11.865-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:38:11.865-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:38:11.881-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:38:11.880-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:38:11.905-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.849 seconds
+[2023-01-10T16:39:21.367-0500] {processor.py:153} INFO - Started process (PID=60212) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:39:21.374-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:39:21.374-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:39:21.374-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:39:21.409-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:39:22.214-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:39:22.214-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:39:22.231-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:39:22.230-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:39:22.251-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.885 seconds
+[2023-01-10T16:39:24.658-0500] {processor.py:153} INFO - Started process (PID=60223) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:39:24.663-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:39:24.664-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:39:24.663-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:39:24.696-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:39:25.529-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:39:25.529-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:39:25.546-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:39:25.546-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:39:25.569-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.912 seconds
+[2023-01-10T16:40:59.271-0500] {processor.py:153} INFO - Started process (PID=60373) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:40:59.277-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:40:59.278-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:40:59.277-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:40:59.308-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:40:59.996-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:40:59.996-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:41:00.011-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:41:00.011-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:41:00.029-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 0.758 seconds
+[2023-01-10T16:52:56.847-0500] {processor.py:153} INFO - Started process (PID=60519) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:52:56.857-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:52:56.858-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:52:56.858-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:52:56.913-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:52:58.362-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:52:58.361-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:52:58.391-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:52:58.391-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:52:58.424-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.578 seconds
+[2023-01-10T16:53:04.170-0500] {processor.py:153} INFO - Started process (PID=60524) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:53:04.180-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:53:04.181-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:53:04.180-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:53:04.234-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:53:05.681-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:53:05.680-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:53:05.711-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:53:05.711-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:53:05.745-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.577 seconds
+[2023-01-10T16:54:00.580-0500] {processor.py:153} INFO - Started process (PID=60569) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:54:00.590-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T16:54:00.591-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:54:00.591-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:54:00.645-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T16:54:03.377-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:54:03.377-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T16:54:03.411-0500] {logging_mixin.py:137} INFO - [2023-01-10T16:54:03.411-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T16:54:03.448-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 2.870 seconds
+[2023-01-10T17:33:23.918-0500] {processor.py:153} INFO - Started process (PID=61125) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:33:23.929-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T17:33:23.930-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:33:23.930-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:33:24.571-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:33:27.613-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:33:27.613-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T17:33:27.647-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:33:27.647-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T17:33:27.726-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 3.810 seconds
+[2023-01-10T17:33:37.962-0500] {processor.py:153} INFO - Started process (PID=61195) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:33:37.986-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T17:33:37.987-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:33:37.986-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:33:38.117-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:33:41.070-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:33:41.069-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T17:33:41.104-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:33:41.104-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T17:33:41.142-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 3.181 seconds
+[2023-01-10T17:57:47.925-0500] {processor.py:153} INFO - Started process (PID=61620) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:57:47.935-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T17:57:47.936-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:57:47.936-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:57:47.987-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T17:57:49.357-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:57:49.357-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T17:57:49.386-0500] {logging_mixin.py:137} INFO - [2023-01-10T17:57:49.385-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T17:57:49.425-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.501 seconds
+[2023-01-10T18:00:18.175-0500] {processor.py:153} INFO - Started process (PID=61824) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:00:18.184-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:00:18.185-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:00:18.185-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:00:18.303-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:00:37.427-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:00:37.427-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:00:37.459-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:00:37.458-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:00:37.500-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 19.321 seconds
+[2023-01-10T18:00:45.468-0500] {processor.py:153} INFO - Started process (PID=61899) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:00:45.495-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:00:45.497-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:00:45.496-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:00:45.587-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:00:47.288-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:00:47.287-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:00:47.317-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:00:47.317-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:00:47.350-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.885 seconds
+[2023-01-10T18:03:31.302-0500] {processor.py:153} INFO - Started process (PID=62133) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:03:31.314-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:03:31.315-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:03:31.314-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:03:31.404-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:03:33.985-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:03:33.985-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:03:34.073-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:03:34.073-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:03:34.111-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 2.810 seconds
+[2023-01-10T18:11:34.482-0500] {processor.py:153} INFO - Started process (PID=62671) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:11:34.492-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:11:34.493-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:11:34.493-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:11:34.545-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:11:36.001-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:11:36.001-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:11:36.039-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:11:36.038-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:11:36.085-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.604 seconds
+[2023-01-10T18:12:03.462-0500] {processor.py:153} INFO - Started process (PID=62741) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:12:03.472-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:12:03.474-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:12:03.473-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:12:03.527-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:13:22.033-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:13:22.032-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:13:22.068-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:13:22.068-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:13:22.115-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 78.641 seconds
+[2023-01-10T18:16:07.317-0500] {processor.py:153} INFO - Started process (PID=63092) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:16:07.327-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:16:07.328-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:16:07.328-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:16:07.385-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:16:09.056-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:16:09.056-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:16:09.114-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:16:09.113-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:16:09.214-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.898 seconds
+[2023-01-10T18:20:41.972-0500] {processor.py:153} INFO - Started process (PID=63321) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:20:41.985-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:20:41.986-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:20:41.986-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:20:42.043-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:20:43.479-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:20:43.479-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:20:43.513-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:20:43.513-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:20:43.548-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.577 seconds
+[2023-01-10T18:20:59.760-0500] {processor.py:153} INFO - Started process (PID=63335) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:20:59.771-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:20:59.772-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:20:59.772-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:20:59.832-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:21:01.327-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:21:01.327-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:21:01.358-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:21:01.358-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:21:01.393-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.633 seconds
+[2023-01-10T18:27:03.077-0500] {processor.py:153} INFO - Started process (PID=63685) to work on /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:27:03.087-0500] {processor.py:743} INFO - Processing file /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py for tasks to queue
+[2023-01-10T18:27:03.088-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:27:03.088-0500] {dagbag.py:538} INFO - Filling up the DagBag from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:27:03.152-0500] {processor.py:753} INFO - DAG(s) dict_keys(['walmart-ml-workflow']) retrieved from /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py
+[2023-01-10T18:27:04.618-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:27:04.617-0500] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-10T18:27:04.662-0500] {logging_mixin.py:137} INFO - [2023-01-10T18:27:04.662-0500] {dag.py:3423} INFO - Setting next_dagrun for walmart-ml-workflow to 2023-01-09T00:00:00+00:00, run_after=2023-01-10T00:00:00+00:00
+[2023-01-10T18:27:04.698-0500] {processor.py:175} INFO - Processing /Users/toyosibamidele/airflow/dags/walmart-ml-workflow.py took 1.622 seconds

@@ -6,18 +6,18 @@ from airflow.operators.bash import BashOperator
 # instantiates a directed acyclic graph
 with DAG(
     'walmart-ml-workflow',
-    default_args={
-        'owner': 'Flora Xu', # YOUR NAME HERE
+    default_args={CD ..
+        'owner': 'Toyosi Bami', # YOUR NAME HERE
         'depends_on_past': False,
-        'email': ['flora@fourthbrain.ai'], # YOUR EMAIL HERE
-        'email_on_failure': False,
-        'email_on_retry': False,
+        'email': ['toyodibamidele@gmail.com'], # YOUR EMAIL HERE
+        'email_on_failure': True,
+        'email_on_retry': True,
         'retries': 1,
         'retry_delay': timedelta(minutes=5),
         },
     description='A simple Machine Learning workflow for Walmart Sales',
     schedule_interval=timedelta(days=1),
-    start_date=datetime(2022, 8, 27), 
+    start_date=datetime(2023, 1, 9), 
     tags=['walmart', 'ml', 'workflow'] # OPTIONAL: tags
 ) as dag:
 
