@@ -1,2 +1,3 @@
-fastapi==0.88.0
-uvicorn==0.20.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:786d7e890b42ee5c5dca3896b7b49e14d160d7ac6741f1c2bfbdc4076e111d09
+size 60

@@ -1,11 +1,3 @@
-from fastapi import FastAPI
-
-app = FastAPI()
-
-@app.get("/")
-def index():
-    return {"message": "Hello World"}
-    
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+version https://git-lfs.github.com/spec/v1
+oid sha256:231c0a3a53b6fa88cc38cc2e78f4b14d54068377d36402ad985340fa5f7434c8
+size 816
