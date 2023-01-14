@@ -6,7 +6,7 @@ from airflow.operators.bash import BashOperator
 # instantiates a directed acyclic graph
 with DAG(
     'walmart-ml-workflow',
-    default_args={CD ..
+    default_args={
         'owner': 'Toyosi Bami', # YOUR NAME HERE
         'depends_on_past': False,
         'email': ['toyodibamidele@gmail.com'], # YOUR EMAIL HERE
