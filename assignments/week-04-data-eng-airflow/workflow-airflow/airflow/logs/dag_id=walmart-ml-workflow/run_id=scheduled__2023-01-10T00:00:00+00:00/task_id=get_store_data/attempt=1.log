@@ -1,28 +1,3 @@
-[2023-01-10T20:42:40.943-0500] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: walmart-ml-workflow.get_store_data scheduled__2023-01-10T00:00:00+00:00 [queued]>
-[2023-01-10T20:42:40.953-0500] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: walmart-ml-workflow.get_store_data scheduled__2023-01-10T00:00:00+00:00 [queued]>
-[2023-01-10T20:42:40.953-0500] {taskinstance.py:1283} INFO - 
---------------------------------------------------------------------------------
-[2023-01-10T20:42:40.954-0500] {taskinstance.py:1284} INFO - Starting attempt 1 of 2
-[2023-01-10T20:42:40.954-0500] {taskinstance.py:1285} INFO - 
---------------------------------------------------------------------------------
-[2023-01-10T20:42:40.964-0500] {taskinstance.py:1304} INFO - Executing <Task(BashOperator): get_store_data> on 2023-01-10 00:00:00+00:00
-[2023-01-10T20:42:40.966-0500] {standard_task_runner.py:55} INFO - Started process 4054 to run task
-[2023-01-10T20:42:40.972-0500] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'walmart-ml-workflow', 'get_store_data', 'scheduled__2023-01-10T00:00:00+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/walmart-ml-workflow.py', '--cfg-path', '/var/folders/lc/0q_5vmf5385c78mr7v2ntch00000gn/T/tmphyc2d_vz']
-[2023-01-10T20:42:40.975-0500] {standard_task_runner.py:83} INFO - Job 14: Subtask get_store_data
-[2023-01-10T20:42:41.028-0500] {task_command.py:389} INFO - Running <TaskInstance: walmart-ml-workflow.get_store_data scheduled__2023-01-10T00:00:00+00:00 [running]> on host toyosis-macbook-pro.local
-[2023-01-10T20:42:41.200-0500] {taskinstance.py:1511} INFO - Exporting the following env vars:
-AIRFLOW_CTX_DAG_EMAIL=toyosibamidele@gmail.com
-AIRFLOW_CTX_DAG_OWNER=Toyosi Bami
-AIRFLOW_CTX_DAG_ID=walmart-ml-workflow
-AIRFLOW_CTX_TASK_ID=get_store_data
-AIRFLOW_CTX_EXECUTION_DATE=2023-01-10T00:00:00+00:00
-AIRFLOW_CTX_TRY_NUMBER=1
-AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-10T00:00:00+00:00
-[2023-01-10T20:42:41.202-0500] {subprocess.py:63} INFO - Tmp dir root location: 
- /var/folders/lc/0q_5vmf5385c78mr7v2ntch00000gn/T
-[2023-01-10T20:42:41.203-0500] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'python3 ~/airflow/scripts/get_store_data.py']
-[2023-01-10T20:42:41.209-0500] {subprocess.py:86} INFO - Output:
-[2023-01-10T20:42:41.869-0500] {subprocess.py:97} INFO - Command exited with return code 0
-[2023-01-10T20:42:41.891-0500] {taskinstance.py:1322} INFO - Marking task as SUCCESS. dag_id=walmart-ml-workflow, task_id=get_store_data, execution_date=20230110T000000, start_date=20230111T014240, end_date=20230111T014241
-[2023-01-10T20:42:41.930-0500] {local_task_job.py:159} INFO - Task exited with return code 0
-[2023-01-10T20:42:41.957-0500] {taskinstance.py:2582} INFO - 1 downstream tasks scheduled from follow-on schedule check
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee905119db5bf0dacf72361e043418e20ae3d610183a4cdb7a2bf136e12eb492
+size 2864

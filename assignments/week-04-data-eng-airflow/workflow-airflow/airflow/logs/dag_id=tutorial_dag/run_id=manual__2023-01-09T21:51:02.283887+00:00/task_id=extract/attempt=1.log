@@ -1,23 +1,3 @@
-[2023-01-09T16:51:07.769-0500] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: tutorial_dag.extract manual__2023-01-09T21:51:02.283887+00:00 [queued]>
-[2023-01-09T16:51:07.781-0500] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: tutorial_dag.extract manual__2023-01-09T21:51:02.283887+00:00 [queued]>
-[2023-01-09T16:51:07.781-0500] {taskinstance.py:1283} INFO - 
---------------------------------------------------------------------------------
-[2023-01-09T16:51:07.782-0500] {taskinstance.py:1284} INFO - Starting attempt 1 of 3
-[2023-01-09T16:51:07.782-0500] {taskinstance.py:1285} INFO - 
---------------------------------------------------------------------------------
-[2023-01-09T16:51:07.793-0500] {taskinstance.py:1304} INFO - Executing <Task(PythonOperator): extract> on 2023-01-09 21:51:02.283887+00:00
-[2023-01-09T16:51:07.796-0500] {standard_task_runner.py:55} INFO - Started process 39328 to run task
-[2023-01-09T16:51:07.802-0500] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial_dag', 'extract', 'manual__2023-01-09T21:51:02.283887+00:00', '--job-id', '3', '--raw', '--subdir', '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py', '--cfg-path', '/var/folders/lc/0q_5vmf5385c78mr7v2ntch00000gn/T/tmprz2jr30r']
-[2023-01-09T16:51:07.805-0500] {standard_task_runner.py:83} INFO - Job 3: Subtask extract
-[2023-01-09T16:51:07.857-0500] {task_command.py:389} INFO - Running <TaskInstance: tutorial_dag.extract manual__2023-01-09T21:51:02.283887+00:00 [running]> on host toyosis-macbook-pro.local
-[2023-01-09T16:51:07.900-0500] {taskinstance.py:1511} INFO - Exporting the following env vars:
-AIRFLOW_CTX_DAG_OWNER=airflow
-AIRFLOW_CTX_DAG_ID=tutorial_dag
-AIRFLOW_CTX_TASK_ID=extract
-AIRFLOW_CTX_EXECUTION_DATE=2023-01-09T21:51:02.283887+00:00
-AIRFLOW_CTX_TRY_NUMBER=1
-AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-09T21:51:02.283887+00:00
-[2023-01-09T16:51:07.911-0500] {python.py:177} INFO - Done. Returned value was: None
-[2023-01-09T16:51:07.918-0500] {taskinstance.py:1322} INFO - Marking task as SUCCESS. dag_id=tutorial_dag, task_id=extract, execution_date=20230109T215102, start_date=20230109T215107, end_date=20230109T215107
-[2023-01-09T16:51:07.944-0500] {local_task_job.py:159} INFO - Task exited with return code 0
-[2023-01-09T16:51:07.979-0500] {taskinstance.py:2582} INFO - 1 downstream tasks scheduled from follow-on schedule check
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d3f9d7fb07962686cb94e457067bf1d9061b37a277cdd4381eb32e349d05de
+size 2487

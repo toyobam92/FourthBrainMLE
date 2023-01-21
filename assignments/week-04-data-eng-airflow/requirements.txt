@@ -1,7 +1,3 @@
-numpy 
-pandas
-scipy
-matplotlib 
-seaborn 
-scikit-learn==1.0.2
-sweetviz==2.1.4
+version https://git-lfs.github.com/spec/v1
+oid sha256:91975e7579ce5b194732c6ef088bdd8e3ba00c0a22e5ed57f6be769af667383c
+size 77
