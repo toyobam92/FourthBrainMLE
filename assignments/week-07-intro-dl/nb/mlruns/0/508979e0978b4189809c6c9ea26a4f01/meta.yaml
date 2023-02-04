@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/toyosibamidele/Desktop/FourthBrainMLELocal/FourthBrainMLE/assignments/week-07-intro-dl/nb/mlruns/0/508979e0978b4189809c6c9ea26a4f01/artifacts
+end_time: 1675385488431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 508979e0978b4189809c6c9ea26a4f01
+run_name: bouncy-conch-110
+run_uuid: 508979e0978b4189809c6c9ea26a4f01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675385475760
+status: 3
+tags: []
+user_id: toyosibamidele

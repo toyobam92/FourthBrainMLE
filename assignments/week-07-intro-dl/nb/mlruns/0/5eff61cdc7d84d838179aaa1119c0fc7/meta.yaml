@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/toyosibamidele/Desktop/FourthBrainMLELocal/FourthBrainMLE/assignments/week-07-intro-dl/nb/mlruns/0/5eff61cdc7d84d838179aaa1119c0fc7/artifacts
+end_time: 1675381700783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eff61cdc7d84d838179aaa1119c0fc7
+run_name: selective-ram-157
+run_uuid: 5eff61cdc7d84d838179aaa1119c0fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675381687567
+status: 3
+tags: []
+user_id: toyosibamidele
